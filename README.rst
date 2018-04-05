@@ -22,3 +22,6 @@
 Description:
 A QGIS Plugin Tool:
 Search location by words like google map; Calculate Distance between two points on mapCanvas.
+
+
+Forked with the intention to modify it for use with QGIS 3.0.
